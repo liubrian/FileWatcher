@@ -5,7 +5,6 @@ Copyright "(c)" 2011 Brian Liu
 (http://www.opensource.org/licenses/mit-license.php)
 
 
-=============
 # Credit to references and code sample
 
 =============
@@ -13,5 +12,5 @@ Copyright "(c)" 2011 Brian Liu
 
 =============
 # Contacts
-<br />Brian Liu(xinlongbrian@gmail.com)
+<br />Brian Liu (xinlongbrian@gmail.com)
 
